@@ -6,6 +6,8 @@
     align-items: center;
     border: 1px solid gray;
     border-radius: 15px;
+    box-shadow: 2px 2px 5px 10px #888888;
+
 }
 
 .caixote img{
@@ -22,4 +24,10 @@
 .item p{
     padding: 5px;
     text-align: justify;
+}
+
+button{
+    padding: 10px;
+    border-radius: 15px;
+    background-color:dodgerblue;
 }
